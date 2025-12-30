@@ -36,18 +36,18 @@ const Services: React.FC = () => {
                         title="Website & App Development"
                         description="We craft fast, responsive websites and applications tailored to your business needs.
 Our solutions are secure, scalable, and user-friendly, delivering digital experiences that drive growth and engagement."
-                        imageSrc="components\assets\giphy-1--unscreen.gif"
+                        imageSrc="./components\assets\giphy-1--unscreen.gif"
                     />
                     <ServiceCard 
                         title="Website Maintenance"
                         description="We keep your website secure, fast, and up-to-date.
 Services include: Updates & bug fixes, SEO optimization, CRM support, performance monitoring, and security backups."
-                        imageSrc="components/assets/maintenance.gif"
+                        imageSrc="./components/assets/maintenance.gif"
                     />
                     <ServiceCard 
                         title="Custom AI Chatbot Development"
                         description="Deliver instant, around-the-clock support. Our bots qualify leads, answer FAQs, and resolve issues—boosting satisfaction and conversions."
-                        imageSrc="components\assets\chat.gif"
+                        imageSrc="./components\assets\chat.gif"
                     />
                 </div>
                 <div className="mt-12 flex flex-wrap justify-center gap-4">
